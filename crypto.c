@@ -3,7 +3,7 @@
  * 
  * Encryption and decryption functions.
  * 
- * @Karin Maier 0730195 <NAME>
+ * @Karin Maier 0730195 KarinMaier
  */
 
 
